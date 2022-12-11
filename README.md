@@ -1,4 +1,4 @@
-# <h1 align="center"> **Educai Backend** </h1>
+# <h1 align="center"> **TCC Backend** </h1>
 
 ## SOBRE O PROJETO:
 #### Nosso projeto tem como premissa fornecer um sistema de gestão de processos dentro de uma empresa, cordenando todas as etapas de um processo e seus respectivos executores.
